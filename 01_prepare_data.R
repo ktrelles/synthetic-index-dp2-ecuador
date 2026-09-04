@@ -1,6 +1,6 @@
 # ============================================================
 
-# SYNTHETIC DP2 INDEX — ECUADOR
+# SYNTHETIC DP2 INDEX — ECUADOR 
 
 # 01. DATA PREPARATION
 
